@@ -1,41 +1,31 @@
-<div align="center" width="50%">
-
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" alt="Hello Coders" width="60%"/> <br>
-<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%"/><br> 
-
-</div>
-
-<hr>
+# 👋 Hi there, I'm Mahmoud Yousry  
+🚀 Currently on my self-learning journey in programming.  
 
 ### 👨‍💻 About Me
-- 🎯 Currently learning **C++**  
-- 🧩 Practicing **Problem Solving & Algorithms**  
-- 💻 Using **Visual Studio Community** as my main IDE  
-- 📚 On a **Self-Taught Journey** (no formal CS degree, just passion & persistence)  
-- 🚀 Interested in building a strong base in programming and later exploring **Cybersecurity**  
+- 📚 Learning **C++** as my main programming language.  
+- 🛠 Using **Visual Studio Community** as my IDE.  
+- 💡 Focused on **problem solving** and building a solid base.  
+- 🧩 Right now I’m practicing with **small projects** and solving problems in C++.  
+- 🎓 Self-taught developer (learning without university/college).  
+
+### 📂 Repositories
+Here you’ll find:
+- My **problem-solving practice in C++**.  
+- Small projects I use to apply what I learn.  
+
+> Note: Educational drafts or training codes are private — the public part is mainly about projects and problem-solving.  
+
+### 🔗 Future Plans
+- Keep improving my C++ skills.  
+- Explore application development for **desktop** or **mobile (Android / iOS / other platforms)**.  
+- Gradually move into bigger projects when the basics are stronger.  
+- Use GitHub as a place to show **real progress** step by step, not just random uploads.  
 
 ---
 
-### 🛠️ Tools & Tech I Use
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat&logo=visual-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-
----
-
-### 📌 Current Focus
-📂 Creating repositories for:
-- Basics of C++ (practice files & notes)  
-- Problem solving challenges (with explanations in README)  
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=YourUserName&style=flat&color=orange&label=PROFILE+VIEWS)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUserName&show_icons=true&theme=tokyonight)
-
-</div>
+### 📝 Notes
+I intentionally keep my GitHub simple.  
+The goal is not to make it look like an “amusement park”,  
+but to focus on **improving my skills**,  
+**solving problems more effectively**,  
+and making sure what I share here reflects **real learning and growth**.  
