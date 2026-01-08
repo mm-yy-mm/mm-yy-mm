@@ -95,7 +95,7 @@ No promises, no polish — just progress.
 
 > 🔗 **Repository Access:**
 >
-> You can find the **Lab Repository** here: please access the Lab Repository through this link: [**The-Dev-Code-Lab**](https://your-repository-link-here).
+> You can find the **Lab Repository** here: please access the Lab Repository through this link: [**The-Dev-Code-Lab**](https://github.com/MM-YY-MM/The-Dev-Code-Lab).
 >
 > In addition, there is another collection that contains the rest of the repositories, which include either simple projects I practiced on or other similar work. However, the lab repository will always remain under the Lab section regardless of any future changes.
 
